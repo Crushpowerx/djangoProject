@@ -27,7 +27,6 @@ __pycache__/
 *.pyc
 
 static/*
-logs/*
 media/*
 !*media
 
