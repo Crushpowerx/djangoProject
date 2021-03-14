@@ -8,9 +8,7 @@ idea
 
 dist
 db.sqlite3
-
 venv
-
 
 prod_settings.py
 local_settings.py
@@ -28,6 +26,7 @@ __pycache__/
 .pyc
 *.pyc
 
+static/
 media/*
 !*media
 
