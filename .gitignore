@@ -7,7 +7,6 @@ idea
 *.egg
 
 dist
-db.sqlite3
 venv
 
 prod_settings.py
@@ -27,7 +26,6 @@ __pycache__/
 *.pyc
 
 static/*
-media/*
 !*media
 
 log/debug.log
